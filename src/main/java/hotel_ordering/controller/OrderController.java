@@ -16,7 +16,8 @@ import java.util.Map;
 @CrossOrigin(origins = {
     "http://localhost:5173",
     "http://localhost:5174",
-    "http://localhost:5175"
+    "http://localhost:5175",
+    "https://hotel-management-frontend-h6ob.vercel.app"
 })
 public class OrderController {
 
